@@ -1,3 +1,29 @@
 ul {
   list-style: none;
 }
+.navigation:hover {
+color: #2196f3;
+}
+}
+
+.navigation-list-link {
+  color: #212121;
+}
+
+.navigation-list-link-email-tel {
+  color: #757575;
+}
+
+.navigation-list-link:hover {
+  color: #2196f3;
+}
+.navigation-list-link-email-tel:hover {
+  color: #2196f3;
+}
+.main {
+  color: #ffffff;
+}
+.button-buy {
+  width: 200px;
+  height: 50px;
+}

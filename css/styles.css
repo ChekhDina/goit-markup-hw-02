@@ -160,3 +160,34 @@ body {
 
   color: #ffffff;
 }
+.footer-address-link:hover,
+.footer-address-link :focus {
+  color: #ffffff;
+}
+
+.button.secondary {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.button.secondary:hover .button.secondary:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.portfolio-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-description {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}

@@ -4,6 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
+
 .link {
   text-decoration: none;
 }
@@ -69,15 +70,13 @@ body {
   text-transform: uppercase;
   color: #f8f8f8;
 }
+
 .order-service-btn {
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
   color: #ffffff;
-}
-.order-service-btn:hover,
-.order-service-btn:focus {
   background-color: #2196f3;
 }
 
@@ -86,4 +85,78 @@ body {
 }
 .header-address {
   font-style: normal;
+}
+.feature-title {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+
+.feature-description,
+.footer-address-link {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.example-list-link,
+.add,
+.subscribe-email {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.section-team {
+  background-color: #f5f4fa;
+}
+.team-title,
+.customers-title,
+.example-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.team-title-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+}
+.team-description {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.18;
+
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #757575;
+}
+
+.footer-address-link-info {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
 }

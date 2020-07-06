@@ -4,6 +4,15 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
+:root {
+  --accent-color: #2196f3;
+  --primary-font: 'Roboto', sans-serif;
+  --secondary-font: 'Raleway', sans-serif;
+  --title-light-theme-color: #757575;
+  --title-light-theme-color: #212121;
+  --title-dark-theme-color: #ffffff;
+  --title-dark-theme-color: #f5f4fa;
+}
 
 .link {
   text-decoration: none;
